@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey!👋 I'm Ben (he/him) and sometimes I write code.
 
-<!--
-**bengineer19/bengineer19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻I love engaging with the tech community, whether it's through OSS, my podcast, or writing posts and articles. In the past I've been fortunate enough to write for Hackaday, The Register, the Stackoverflow Blog, and Devclass.
 
-Here are some ideas to get you started:
+🌳I also love sustainability and will happily talk about the intersection of climate change and technology for hours.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+🔗 My blog, [benjames.io](https://benjames.io)
+
+🎙 My podcast about software engineering, [Distinguished Devs](https://distinguisheddevs.com/)
+
+🏄‍Say hi on [LinkedIn](https://www.linkedin.com/in/bengineer19/)
+
