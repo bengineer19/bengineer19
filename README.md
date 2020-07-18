@@ -11,6 +11,4 @@
 * 🏄‍My [LinkedIn](https://www.linkedin.com/in/bengineer19/)
 
 ### Contact 👋
-I'm always up for a chat, so feel free to say hi on `ben` at `benjames.io`.
-
-If you don't want to risk going to junk, reach out to me on LinkedIn or through my [website](https://benjames.io/contact/)!
+I'm always up for a chat, so feel free to say hi through my [website](https://benjames.io/contact/), or on LinkedIn!
